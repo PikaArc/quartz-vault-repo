@@ -1,12 +1,11 @@
 ---
-
 publish: true
 AssociatedGroup: "[[Bandits]]"
 Gender: Male
 Race: 
 Age: "1"
 Class:
-  - "[[Rogue]]"
+  - "[[Rogue|Rogue]]"
 Alignment: 
 Character-Role: 
 Location: 
@@ -17,27 +16,27 @@ Vitality: Alive
 
 
 > [!infobox]
-> # `=this.file.name`
+> # Kantora
 > ![[ImagePlaceholder.png|cover hsmall]]
 > [[ImagePlaceholder.png|Show To Players]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
-> Home | `=this.Location` |
-> Group | `=this.AssociatedGroup` |
-> Sex | `=this.gender` |
-> Race | `=this.race` |
-> Age | `=this.age` |
+> Home |  |
+> Group | [[github-publisher/content/Bandits.md|Bandits]] |
+> Sex | Male |
+> Race |  |
+> Age | 1 |
 > Condition | Healthy |
 > ###### Rules Info
 > Type |  Stat |
 > ---|---|
-> Alignment | `=this.alignment` |
-> Class | `=this.class` |
-> Character Role | `=this.character-role` |
+> Alignment |  |
+> Class | [[DND 5E/Classes/Rogue.md|Rogue]] |
+> Character Role |  |
 
-# `=this.file.name`
+# Kantora
 ## Profile
 
-Is apart of [[Ntyss]]'s backstory, is supposedly a guard from his town
+Is apart of [[Ntyss|Ntyss]]'s backstory, is supposedly a guard from his town
 

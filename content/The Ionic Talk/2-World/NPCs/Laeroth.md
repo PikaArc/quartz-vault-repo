@@ -1,13 +1,12 @@
 ---
-
 publish: true
 AssociatedGroup: 
 Gender: Male
 Race:
-  - "[[Elf]]"
+  - "[[Elf|Elf]]"
 Age: "1"
 Class:
-  - "[[Rogue]]"
+  - "[[Rogue|Rogue]]"
 Alignment: 
 Character-Role: 
 Location: 
@@ -18,26 +17,26 @@ Vitality: Alive
 
 
 > [!infobox]
-> # `=this.file.name`
+> # Laeroth
 > ![[ImagePlaceholder.png|cover hsmall]]
 > [[ImagePlaceholder.png|Show To Players]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
-> Home | `=this.Location` |
-> Group | `=this.AssociatedGroup` |
-> Sex | `=this.gender` |
-> Race | `=this.race` |
-> Age | `=this.age` |
+> Home |  |
+> Group |  |
+> Sex | Male |
+> Race | [[DND 5E/Races/Elf.md|Elf]] |
+> Age | 1 |
 > Condition | Healthy |
 > ###### Rules Info
 > Type |  Stat |
 > ---|---|
-> Alignment | `=this.alignment` |
-> Class | `=this.class` |
-> Character Role | `=this.character-role` |
+> Alignment |  |
+> Class | [[DND 5E/Classes/Rogue.md|Rogue]] |
+> Character Role |  |
 
-# `=this.file.name`
+# Laeroth
 ## Profile
 
 **<Add description here, extend it with AI Text Generator using Ctrl J>**

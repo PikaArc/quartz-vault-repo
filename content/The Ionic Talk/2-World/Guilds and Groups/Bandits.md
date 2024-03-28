@@ -1,5 +1,4 @@
 ---
-
 publish: true
 tags:
   - Category/Group
@@ -8,21 +7,21 @@ Alignment: Chaotic Evil
 Government: 
 Leader: "[[Kantora]]"
 PrimaryHome:
-  - "[[Bandit Camp]]"
+  - "[[Bandit Camp|Bandit Camp]]"
 icon: RiGroupFill
 ---
 
 
 
 > [!infobox]
-> # `=this.file.name`
-> ![[ImagePlaceholder.png]]
+> # Bandits
+> ![[ImagePlaceholder.png|ImagePlaceholder.png]]
 > ###### Key Members
 > ```dataview
 table Race, Gender, Class
 where contains( AssociatedGroup, this.file.name)
 
-# `=this.file.name`
+# Bandits
 ## Overview
 ...
 

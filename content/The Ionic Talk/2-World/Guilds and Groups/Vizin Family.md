@@ -1,5 +1,4 @@
 ---
-
 publish: true
 tags:
   - Category/Group
@@ -16,8 +15,8 @@ icon: RiGroupFill
 
 
 > [!infobox]
-> # `=this.file.name`
-> ![[ImagePlaceholder.png]]
+> # Vizin Family
+> ![[ImagePlaceholder.png|ImagePlaceholder.png]]
 > ###### Key Members
 > ```dataview
 TABLE WITHOUT ID link(file.name) AS "Name", Race, Character-Role
@@ -27,14 +26,14 @@ from "The Ionic Talk/2-World/NPCs/Vizin Family"
 ::
 
 
-# `=this.file.name`
+# Vizin Family
 ## Overview
 
-The Vizin family is a prominent lineage within the Seelie Fey Court, known for their mastery of druidic arts and their influence in the enchanting city of Osfelin. Led by patriarch Erefis and matriarch Salanae, the Vizins command respect and admiration from their peers, with their daughter [[Fanlyn]] poised to carry on their esteemed legacy.
+The Vizin family is a prominent lineage within the Seelie Fey Court, known for their mastery of druidic arts and their influence in the enchanting city of Osfelin. Led by patriarch Erefis and matriarch Salanae, the Vizins command respect and admiration from their peers, with their daughter [[Fanlyn|Fanlyn]] poised to carry on their esteemed legacy.
 
 ## Etymology
 
-The surname "Vizin" is believed to have roots in ancient Fey language, symbolizing "wisdom" and "balance," reflecting the family's deep connection to nature and their role as guardians of the [[Feywilds]] natural order.
+The surname "Vizin" is believed to have roots in ancient Fey language, symbolizing "wisdom" and "balance," reflecting the family's deep connection to nature and their role as guardians of the [[Feywilds|Feywilds]] natural order.
 
 ## Activities
 
@@ -59,10 +58,10 @@ The Vizin family possesses a wealth accumulated over generations of druidic mast
 
 ## History
 
-The history of the Vizin family is intertwined with the annals of the Seelie Fey Court, with ancestors revered for their contributions to preserving the [[Feywilds]] natural beauty and defending it against threats from darker forces. Each generation of Vizins has upheld this legacy with pride, leaving a lasting imprint on the fabric of Fey society.
+The history of the Vizin family is intertwined with the annals of the Seelie Fey Court, with ancestors revered for their contributions to preserving the [[Feywilds|Feywilds]] natural beauty and defending it against threats from darker forces. Each generation of Vizins has upheld this legacy with pride, leaving a lasting imprint on the fabric of Fey society.
 
 ## Rumors & Legends
 
-Whispers among Fey circles speak of ancestral legends surrounding the Vizin family, with tales of heroic deeds and mythical encounters weaving a tapestry of intrigue and wonder. Some rumors suggest hidden chambers within their estate containing ancient relics of immense power, while others speak of secret alliances forged with elemental spirits to safeguard the [[Feywilds]] borders.
+Whispers among Fey circles speak of ancestral legends surrounding the Vizin family, with tales of heroic deeds and mythical encounters weaving a tapestry of intrigue and wonder. Some rumors suggest hidden chambers within their estate containing ancient relics of immense power, while others speak of secret alliances forged with elemental spirits to safeguard the [[Feywilds|Feywilds]] borders.
 
 

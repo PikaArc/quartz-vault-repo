@@ -1,5 +1,4 @@
 ---
-
 publish: true
 AssociatedGroup: "[[Bandits]]"
 Gender: Male
@@ -16,26 +15,26 @@ Vitality: Alive
 
 
 > [!infobox]
-> # `=this.file.name`
+> # Lore
 > ![[ImagePlaceholder.png|cover hsmall]]
 > [[ImagePlaceholder.png|Show To Players]]
 > ###### Basic Information
 > Type |  Stat |
 > ---|---|
-> Home | `=this.Location` |
-> Group | `=this.AssociatedGroup` |
-> Sex | `=this.gender` |
-> Race | `=this.race` |
-> Age | `=this.age` |
+> Home | [[github-publisher/content/Bandit Camp.md|Bandit Camp]] |
+> Group | [[github-publisher/content/Bandits.md|Bandits]] |
+> Sex | Male |
+> Race |  |
+> Age | 1 |
 > Condition | Healthy |
 > ###### Rules Info
 > Type |  Stat |
 > ---|---|
-> Alignment | `=this.alignment` |
-> Class | `=this.class` |
-> Character Role | `=this.character-role` |
+> Alignment |  |
+> Class |  |
+> Character Role | Scribe |
 
-# `=this.file.name`
+# Lore
 ## Profile
 
 **<Add description here, extend it with AI Text Generator using Ctrl J>**

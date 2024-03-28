@@ -1,5 +1,4 @@
 ---
-
 publish: true
 Type: Player
 Level: 1
@@ -22,7 +21,7 @@ Gender: Male
 Age: "31"
 Location: NONE
 Class:
-  - "[[Cleric]]"
+  - "[[Cleric|Cleric]]"
 Subclass: Knowledge Domain
 AssociatedGroup: NONE
 Likes: NONE
@@ -47,36 +46,36 @@ Languages:
 ---
 >[!column|flex 2]
 >> [!infobox]
->> # `=this.file.name`
->> # ![[Ntyss Token.png]]
+>> # Ntyss
+>> # ![[Ntyss Token.png|Ntyss Token.png]]
 >> ###### Stats
 >>  |
 >> ---|---|
->> **Level** |`=this.level` |
->>  **Speed** |`=this.Speed` |
->> **Proficiency** | +`=this.Prof` |
->> **Initiative** | +`=(this.DEX - 10)/2` |
->> **AC** | `=this.AC`
->> **HP** | `=this.HP ` |
->> **Hit Dice** | `=this.Level + this.HitDice`  |
+>> **Level** |1 |
+>>  **Speed** |30 |
+>> **Proficiency** | +2 |
+>> **Initiative** | +2 |
+>> **AC** | 12
+>> **HP** | 13 |
+>> **Hit Dice** | 1d8  |
 >> **Passive Perception** |
 >>  
 >> ###### Bio
 >>   |
 >> ---|---|
->> **Race** | `=this.race` |
->> **Sub-Race** | `=this.Sub-Race` |
->> **Sex** | `=this.gender` |
->> **Age** | `=this.age` |
->> **Sexuality** | `=this.sexuality` |
->> **Alignment** | `=this.alignment` |
+>> **Race** | [[DND 5E/Races/Human.md|Human]] |
+>> **Sub-Race** | Variant Human |
+>> **Sex** | Male |
+>> **Age** | 31 |
+>> **Sexuality** |  |
+>> **Alignment** | Chaotic Good |
 >> ###### Info
 >>   |
 >> ---|---|
->> **Class(s)** | `=this.Class` |
->> **Sub-Class(s)** | `=this.Subclass`
->> **Group(s)** | `=this.AssociatedGroup` |
->> **Religion(s)** | `=this.AssociatedReligion` |
+>> **Class(s)** | [[DND 5E/Classes/Cleric.md|Cleric]] |
+>> **Sub-Class(s)** | Knowledge Domain
+>> **Group(s)** | NONE |
+>> **Religion(s)** |  |
 >
 >> [!infobox] Death Saves
 >> ### Death Saves
@@ -89,30 +88,30 @@ Languages:
 >> ### Skills
 | Skill | Score       | Mod                     | Prof                              | ST                                  |
 | ----- | ----------- | ----------------------- | --------------------------------- | ----------------------------------- |
-| <font color="#ff0000">**STR**</font>   | `=this.STR` | +`=(this.STR - 10)/2`   | <input type="checkbox" unchecked> | +`=(this.STR - 10)/2`               |
-| <font color="#ffff00">**DEX**</font>   | `=this.DEX`  | +`=(this.DEX - 10)/2`   | <input type="checkbox" unchecked> | +`=(this.DEX - 10)/2`               |
-| <font color="#00b050">**CON**</font>   | `=this.CONST` | +`=(this.CONST - 10)/2` | <input type="checkbox" unchecked>   | +`=((this.CONST - 10)/2)` |
-| <font color="#7030a0">**INT**</font>   | `=this.INT`          | +`=(this.INT - 10)/2`   | <input type="checkbox" unchecked>   | +`=((this.INT - 10)/2)`   |
-| <font color="#245bdb">**WIS**</font>   | `=this.WIS`          | +`=(this.WIS - 10)/2`   | <input type="checkbox" unchecked> | +`=(this.WIS - 10)/2`               |
-| <font color="#de7802">**CHA**</font>   | `=this.CHA`          | +`=(this.CHA - 10)/2`   | <input type="checkbox" unchecked> | +`=(this.CHA - 10)/2`               |
+| <font color="#ff0000">**STR**</font>   | 14 | +2   | <input type="checkbox" unchecked> | +2               |
+| <font color="#ffff00">**DEX**</font>   | 14  | +2   | <input type="checkbox" unchecked> | +2               |
+| <font color="#00b050">**CON**</font>   | 7 | +-1.5 | <input type="checkbox" unchecked>   | +-1.5 |
+| <font color="#7030a0">**INT**</font>   | 16          | +3   | <input type="checkbox" unchecked>   | +3   |
+| <font color="#245bdb">**WIS**</font>   | 16          | +3   | <input type="checkbox" unchecked> | +3               |
+| <font color="#de7802">**CHA**</font>   | 12          | +1   | <input type="checkbox" unchecked> | +1               |
 >> ### Skill Checks
 | Ability               |                                   | Mod |
 | --------------------- | --------------------------------- | --- |
-| Acrobatics (DEX)      | <input type="checkbox" unchecked> | +`=(this.DEX - 10)/2`   |
-| Animal Handling (WIS) | <input type="checkbox" unchecked> | +`=(this.WIS - 10)/2`  |
-| Arcana (INT)          | <input type="checkbox" unchecked> | +`=((this.INT - 10)/2)`  |
-| Athletics (STR)       | <input type="checkbox" unchecked> | +`=(this.STR - 10)/2`   |
-| Deception (CHA)       | <input type="checkbox" unchecked> | +`=(this.CHA - 10)/2`  |
-| History (INT)         | <input type="checkbox" unchecked> | +`=(this.INT - 10)/2`  |
-| Insight (WIS)         | <input type="checkbox" unchecked>   | +`=((this.WIS - 10)/2)`  |
-| Intimidation (CHA)    | <input type="checkbox" unchecked> | +`=(this.CHA - 10)/2`  |
-| Investigation (INT)   | <input type="checkbox" unchecked>   | +`=((this.INT - 10)/2)`  |
-| Medicine (WIS)        | <input type="checkbox" unchecked> | +`=(this.WIS - 10)/2`  |
-| Nature (INT)          | <input type="checkbox" unchecked> | +`=(this.INT - 10)/2`  |
-| Perception (WIS)      | <input type="checkbox" unchecked>   | +`=((this.WIS - 10)/2)`  |
-| Performance (CHA)     | <input type="checkbox" unchecked> | +`=(this.CHA - 10)/2`  |
-| Persuasion (CHA)      | <input type="checkbox" unchecked> | +`=(this.CHA - 10)/2`  |
-| Religion (INT)        | <input type="checkbox" unchecked> | +`=(this.INT - 10)/2`  |
-| Sleight of Hand (DEX) | <input type="checkbox" unchecked> | +`=(this.DEX - 10)/2`   |
-| Stealth (DEX)         | <input type="checkbox" unchecked> | +`=(this.DEX - 10)/2`   |
-| Survival (WIS)        | <input type="checkbox" unchecked> | +`=(this.WIS - 10)/2`  |
+| Acrobatics (DEX)      | <input type="checkbox" unchecked> | +2   |
+| Animal Handling (WIS) | <input type="checkbox" unchecked> | +3  |
+| Arcana (INT)          | <input type="checkbox" unchecked> | +3  |
+| Athletics (STR)       | <input type="checkbox" unchecked> | +2   |
+| Deception (CHA)       | <input type="checkbox" unchecked> | +1  |
+| History (INT)         | <input type="checkbox" unchecked> | +3  |
+| Insight (WIS)         | <input type="checkbox" unchecked>   | +3  |
+| Intimidation (CHA)    | <input type="checkbox" unchecked> | +1  |
+| Investigation (INT)   | <input type="checkbox" unchecked>   | +3  |
+| Medicine (WIS)        | <input type="checkbox" unchecked> | +3  |
+| Nature (INT)          | <input type="checkbox" unchecked> | +3  |
+| Perception (WIS)      | <input type="checkbox" unchecked>   | +3  |
+| Performance (CHA)     | <input type="checkbox" unchecked> | +1  |
+| Persuasion (CHA)      | <input type="checkbox" unchecked> | +1  |
+| Religion (INT)        | <input type="checkbox" unchecked> | +3  |
+| Sleight of Hand (DEX) | <input type="checkbox" unchecked> | +2   |
+| Stealth (DEX)         | <input type="checkbox" unchecked> | +2   |
+| Survival (WIS)        | <input type="checkbox" unchecked> | +3  |

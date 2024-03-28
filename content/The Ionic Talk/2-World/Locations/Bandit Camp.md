@@ -1,5 +1,4 @@
 ---
-
 publish: true
 icon: FasCampground
 tags:
@@ -21,42 +20,42 @@ commonraces:
   - Elves
 religion: 
 exports: 
-imports:
+imports: 
 ---
 
 
 
 > [!infobox]
-> # `=this.file.name`
+> # Bandit Camp
 > ![[MapPlaceholder.png|cover hsmall]]
 > ###### Geography
 > Type |  Stat |
 > ---|---|
-> Type | `=this.type` |
-> Size | `=this.size` |
-> Region | `=this.region` |
-> ###### Travel (`=[[Travel Calculator]].HoursPerDay` hrs per day)
-> ###### [[Travel Calculator]]  / [[Exhaustion]]:  `=[[Travel Calculator]].ExhaustionLevel`
+> Type | Settlement |
+> Size | Small camp |
+> Region | This area,Of this area |
+> ###### Travel ( hrs per day)
+> ###### [[Travel Calculator|Travel Calculator]]  / [[Exhaustion|Exhaustion]]:  
 > Destination |  Travel Days  |
 > ---|---|
-> [[Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
+> [[Voonlar|Voonlar]] | 🕓: `VIEW[round((88* {Travel Calculator#TravelCalc}) / 60 / {Travel Calculator#HoursPerDay}, 1)]`      |
 > ###### Politics
 > Type |  Stat |
 > ---|---|
-> Govt Type | `=this.politics` |
-> Ruler | `=this.leader` |
-> Defense | `=this.defences` |
+> Govt Type | Lordship |
+> Ruler | [[github-publisher/content/Kantora.md|Kantora]] |
+> Defense |  |
 > ###### Society
 > Type |  Stat |
 > ---|---|
-> Population | `=this.population` |
-> Races | `=this.commonraces` |
-> Temples | `=this.religion`  |
+> Population |  |
+> Races | Humans,Elves |
+> Temples |   |
 > ###### Commerce
 > Type |  Stat |
 > ---|---|
-> Exports | `=this.exports` |
-> Imports | `=this.imports` |
+> Exports |  |
+> Imports |  |
 > ###### Organizations
 > Type |  Stat |
 > ---|---|
@@ -65,7 +64,7 @@ table WITHOUT ID link(file.name) AS "Group", link(Leader) AS "Leader"
 where contains( PrimaryHome, this.file.name)
 
 
-# `=this.file.name`
+# Bandit Camp
 ## Overview
 Placeholder
 

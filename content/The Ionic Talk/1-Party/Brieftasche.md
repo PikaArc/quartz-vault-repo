@@ -13,8 +13,9 @@ CONST: 0
 INT: 0
 WIS: 0
 CHA: 0
-Race: 
-Sub-Race: 
+Race:
+  - "[[Elf|Elf]]"
+Sub-Race: "[[Elf#High Elf]]"
 Alignment: ??????????????????????
 Gender: Male
 Sexuality: 
@@ -44,7 +45,7 @@ TempHP: 0
 aliases:
   - Mili
 ---
->[!column|flex 2]
+y>[!column|flex 2]
 >> [!infobox]
 >> # Brieftasche
 >> # 
@@ -63,8 +64,8 @@ aliases:
 >> ###### Bio
 >>   |
 >> ---|---|
->> **Race** |  |
->> **Sub-Race** |  |
+>> **Race** | [[DND 5E/Races/Elf.md|Elf]] |
+>> **Sub-Race** | [[DND 5E/Races/Elf.md#High Elf|Elf > High Elf]] |
 >> **Sex** | Male |
 >> **Age** | 0 |
 >> **Sexuality** |  |

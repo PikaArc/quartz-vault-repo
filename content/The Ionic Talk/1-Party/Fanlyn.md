@@ -89,7 +89,7 @@ Languages:
 >> ---|---|
 >> **Class(s)** | [[DND 5E/Classes/Druid.md|Druid]] |
 >> **Sub-Class(s)** | 
->> **Group(s)** | [[github-publisher/content/Vizin Family.md|Vizin Family]] |
+>> **Group(s)** | [[The Ionic Talk/2-World/Guilds and Groups/Vizin Family.md|Vizin Family]] |
 >> **Religion(s)** |  |
 >
 >> [!infobox] Death Saves

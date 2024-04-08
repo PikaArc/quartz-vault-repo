@@ -4,7 +4,7 @@ tags:
 whichparty: "[[The Ionic Talk]]"
 sessiondate: 02-03-2024
 characters:
-  - "[[Fanlyn|Fanlyn]]"
+  - "[[../Characters/Fanlyn|Fanlyn]]"
 aliases:
   - "Chaos Unleashed: Intrigue, Sacrifice, and Unpredictable Escapes"
 quicknote: "Chaos Unleashed: Intrigue, Sacrifice, and Unpredictable Escapes"
@@ -36,11 +36,11 @@ publish: true
 >> **Locations** | `INPUT[inlineListSuggester(optionQuery(#Location AND !"z_Templates")):locations]` |
 >> **Miscellaneous** | `INPUT[inlineListSuggester(optionQuery("" AND !"z_Templates")):misc]` |
 
-#  [[Campaign/Parties/Party Dashboards/The Ionic Talk.md|The Ionic Talk]] Session 1 "Chaos Unleashed: Intrigue, Sacrifice, and Unpredictable Escapes"
+#  [[../Party Dashboards/The Ionic Talk|The Ionic Talk]] Session 1 "Chaos Unleashed: Intrigue, Sacrifice, and Unpredictable Escapes"
 ## During
 ### Events
 
-The session opens with the party awakening disoriented on a carriage, leading to an interrogation and subsequent combat with mysterious figures at a [[Bandit Camp|Bandit Camp]]. A shapeshifter connected to [[Ntyss|Ntyss]]'s past adds intrigue. The ground transforms into a void, suggesting a reality shift, while time briefly reverses, disorienting the party. [[Arcafang|Arcafang]] willingly allows capture, potentially for strategic reasons. One party member bluffs their way out of danger. [[Ntyss|Ntyss]] sacrifices themselves in battle. [[Max|Max]] evades capture by hiding and deceiving. [[Fanlyn|Fanlyn]] rescues [[Arcafang|Arcafang]] but forsakes [[Ntyss|Ntyss]] due to behavior. [[Max|Max]] diverges from a rescue mission to commit arson, causing chaos. Narrowly avoiding capture, [[Max|Max]] attempts to charm a tree. The party becomes scattered, with [[Ntyss|Ntyss]] captured and [[Max|Max]] embarking on a solo escapade, leading to contemplation of their actions.
+The session opens with the party awakening disoriented on a carriage, leading to an interrogation and subsequent combat with mysterious figures at a [[Bandit Camp|Bandit Camp]]. A shapeshifter connected to [[../Characters/Ntyss|Ntyss]]'s past adds intrigue. The ground transforms into a void, suggesting a reality shift, while time briefly reverses, disorienting the party. [[../Characters/Arcafang|Arcafang]] willingly allows capture, potentially for strategic reasons. One party member bluffs their way out of danger. [[../Characters/Ntyss|Ntyss]] sacrifices themselves in battle. [[../Characters/Max|Max]] evades capture by hiding and deceiving. [[../Characters/Fanlyn|Fanlyn]] rescues [[../Characters/Arcafang|Arcafang]] but forsakes [[../Characters/Ntyss|Ntyss]] due to behavior. [[../Characters/Max|Max]] diverges from a rescue mission to commit arson, causing chaos. Narrowly avoiding capture, [[../Characters/Max|Max]] attempts to charm a tree. The party becomes scattered, with [[../Characters/Ntyss|Ntyss]] captured and [[../Characters/Max|Max]] embarking on a solo escapade, leading to contemplation of their actions.
 
 ### Travel & Rest
 

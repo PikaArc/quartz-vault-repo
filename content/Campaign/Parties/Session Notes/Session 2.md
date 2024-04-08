@@ -34,23 +34,23 @@ publish: true
 >> **Locations** | `INPUT[inlineListSuggester(optionQuery(#Location AND !"z_Templates")):locations]` |
 >> **Miscellaneous** | `INPUT[inlineListSuggester(optionQuery("" AND !"z_Templates")):misc]` |
 
-#  [[Campaign/Parties/Party Dashboards/The Ionic Talk.md|The Ionic Talk]] Session 2 "Escape and Intrigue: Deception, Allies, and Unraveling Secrets"
+#  [[../Party Dashboards/The Ionic Talk|The Ionic Talk]] Session 2 "Escape and Intrigue: Deception, Allies, and Unraveling Secrets"
 ## Prep
 ### To-Do
 
 - Review the events leading up to the daring escape and the ensuing encounters.
-- Prepare maps for the campsite, including the layout of the [[bandit camp|bandit camp]] and any key locations mentioned.
+- Prepare maps for the campsite, including the layout of the [[Bandit Camp|bandit camp]] and any key locations mentioned.
 - Develop NPCs involved in the escape, interrogation, and subsequent battles.
 - Consider potential consequences and plot developments resulting from the party's actions during the escape.
 
 ## During
 ### Events
 
-The session unfolds with [[Fanlyn|Fanlyn]] and [[Arcafang|Arcafang]] executing a daring escape, relying on deception to slip away from their captors unnoticed. Meanwhile, [[Max|Max]] remains ensnared by a mysterious tree's enchantment, rendering him incapacitated. [[Ntyss|Ntyss]] finds himself facing interrogation by the bandit captain, his situation growing increasingly dire. However, just as the captain moves to seize [[Ntyss|Ntyss]], [[Laeroth|Laeroth]] breaks free from his restraints, shielding [[Ntyss|Ntyss]] from harm and initiating a fierce battle with the bandits alongside him.
+The session unfolds with [[../Characters/Fanlyn|Fanlyn]] and [[../Characters/Arcafang|Arcafang]] executing a daring escape, relying on deception to slip away from their captors unnoticed. Meanwhile, [[../Characters/Max|Max]] remains ensnared by a mysterious tree's enchantment, rendering him incapacitated. [[../Characters/Ntyss|Ntyss]] finds himself facing interrogation by the bandit captain, his situation growing increasingly dire. However, just as the captain moves to seize [[../Characters/Ntyss|Ntyss]], [[Laeroth|Laeroth]] breaks free from his restraints, shielding [[../Characters/Ntyss|Ntyss]] from harm and initiating a fierce battle with the bandits alongside him.
 
-The sudden appearance of [[Kantora|Kantora]], a mysterious figure with the ability to freeze time, provides a crucial distraction, allowing [[Ntyss|Ntyss]] and [[Laeroth|Laeroth]] to gain the upper hand in combat. Despite facing perilous odds, [[Laeroth|Laeroth]] falls in battle, only to be swiftly revived by his loyal mimic companion. With renewed determination, the party presses on, compelling a bandit named [[Chase|Chase]] to temporarily join their cause through intimidation.
+The sudden appearance of [[Kantora|Kantora]], a mysterious figure with the ability to freeze time, provides a crucial distraction, allowing [[../Characters/Ntyss|Ntyss]] and [[Laeroth|Laeroth]] to gain the upper hand in combat. Despite facing perilous odds, [[Laeroth|Laeroth]] falls in battle, only to be swiftly revived by his loyal mimic companion. With renewed determination, the party presses on, compelling a bandit named [[Chase|Chase]] to temporarily join their cause through intimidation.
 
-Using [[Chase|Chase]]'s deception, they mislead a barbarian about a stolen elixir, diverting his attention away from their escape. With the aid of an archer, the party manages to break out of the camp, discovering the truth about the mysterious tree – it is revealed to be a mage named [[Fence|Fence]] concealed within its roots. Amidst the chaos, [[Laeroth|Laeroth]] raises the topic of a harp, sparking confusion among the party members, except for [[Ntyss|Ntyss]], who seems to possess some understanding of its significance.
+Using [[Chase|Chase]]'s deception, they mislead a barbarian about a stolen elixir, diverting his attention away from their escape. With the aid of an archer, the party manages to break out of the camp, discovering the truth about the mysterious tree – it is revealed to be a mage named [[Fence|Fence]] concealed within its roots. Amidst the chaos, [[Laeroth|Laeroth]] raises the topic of a harp, sparking confusion among the party members, except for [[../Characters/Ntyss|Ntyss]], who seems to possess some understanding of its significance.
 
 Despite the confusion and uncertainty, the party resolves to follow [[Laeroth|Laeroth]]'s lead, trusting in his knowledge and connections to guide them towards understanding their predicament. As tensions continue to rise and secrets begin to unravel, the party's journey takes an unexpected turn, leading them deeper into a tangled web of intrigue and danger.
 
@@ -61,7 +61,7 @@ No significant travel in this session, but it ended with a long rest
 
 ### Loot, Rewards & Purchases
 
-[[Ntyss|Ntyss]] acquired a bow from [[Chase|Chase]], but besides that no notable loot or purchases obtained during this session.
+[[../Characters/Ntyss|Ntyss]] acquired a bow from [[Chase|Chase]], but besides that no notable loot or purchases obtained during this session.
 
 ### Date & Time
 

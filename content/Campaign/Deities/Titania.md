@@ -73,7 +73,7 @@ publish: true
 > [!infobox]+
 > # Titania
 > `VIEW[!\[\[{art}\]\]][text(renderMarkdown)]`
-> ![[../../images/PlaceholderAudio.webm|PlaceholderAudio.webm]]
+> ![[../../z_Audio/PlaceholderAudio.webm|PlaceholderAudio.webm]]
 > ###### Bio
 >  |
 > ---|---|
